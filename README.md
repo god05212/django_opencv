@@ -113,4 +113,4 @@ OpenCV에서 제공하는 haarcascade_frontalface_default.xml과 haarcascade_eye
 얼굴 영역을 따로 잘라서 썸네일로 저장해 보여주기  
 
 ![image](https://github.com/user-attachments/assets/bd2b4d13-394f-4732-b048-2ed11bed8216)
-![image](https://github.com/user-attachments/assets/9c818d4a-b9b7-451a-8228-2abccaad4644)
+![image](https://github.com/user-attachments/assets/aed81e4f-2416-4e72-8c4d-3ce7224c34c2)
